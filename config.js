@@ -1,4 +1,4 @@
-// Dibuat dari admin.html. Ganti file config.js di repo dengan isi dari admin.
+// Dibuat dari admin.html. Ganti file config.js di repo dengan isi ini.
 window.CONFIG = {
   "n1": "Intan",
   "n2": "Dimas",
@@ -7,7 +7,7 @@ window.CONFIG = {
   "f2": "Dimas Miftakhul ‘Aziiz",
   "p2": "Putra Bapak Suwarno & Ibu Suparmi",
   "eventTitle": "Akad Nikah",
-  "date": "2027-03-27",
+  "date": "2027-07-17",
   "timeStart": "07:30",
   "timeEnd": "10:30",
   "place": "Masjid Raya Al Falah Sragen",
